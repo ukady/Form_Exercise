@@ -52,5 +52,20 @@ banner{
   top: 50%;
   transform: translateY(-50%);
   text-align: center;
-  
+  color: white;
+}
+.content h1{
+  font-size: 70px;
+  margin-top: 80px;
+}
+.content p{
+  margin: 20px auto;
+  font-weight: 100;
+  line-height: 25px;
+}
+button{
+  width: 200px;
+  padding: 15px 0;
+  text-align: center;
+  margin: 20px;
 }
