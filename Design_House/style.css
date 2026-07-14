@@ -46,4 +46,8 @@ banner{
 .navbar ul li:hover::after{
   width: 100%;
 }
-.content
+.content{
+  width: 100%;
+  position: absolute;
+  top: 50%;
+}
