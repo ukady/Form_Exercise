@@ -35,4 +35,7 @@ banner{
 }
 .navbar ul li::after{
   content: '';
+  height: 3px;
+  width: 0;
+  background: #009688;
 }
