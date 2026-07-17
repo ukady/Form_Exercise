@@ -48,7 +48,7 @@ div button:hover{
 .logo{
     font-size: 30px;
     font-weight: 600;
-    text-transform: ;
+    text-transform: uppercase;
 }
 @media(max-width:768px){
   .nav ul{
