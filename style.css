@@ -51,6 +51,11 @@ a {
 form input::placeholder{
   color: green;
 }
+.forgot{
+  margin: 5;
+  left: 50px;
+  top: 19%;
+}
 .other-login{
   font-size: 10px;
   color: white;
