@@ -41,7 +41,7 @@ form input{
   border-radius: 10px;
   margin-bottom: 15px ;
 }
-div a{
+div {
   padding: 10px;
   color: white;
   outline: none;
@@ -120,7 +120,6 @@ h1{
     margin-right: 5px;
 }
 
-}
 #account{
   color: white;
 }
