@@ -44,7 +44,7 @@ form input{
 a {
   padding-right: 10px;
   color: white;
-  outline: none;
+  text-decoration: none;
   margin-top: 10px;
   font-size: 15px;
 }
