@@ -32,7 +32,7 @@ form{
   background: rgba(0,0,0,.35);
 backdrop-filter: blur(8px);5);
 }
-/*form input{
+form input{
   padding: 8px 17px;
   font-size: 16px;
   color: black;
