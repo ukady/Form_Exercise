@@ -79,7 +79,7 @@ h1{
   margin: 8px;
   
 }
-.input{
+.input-box{
     position: relative;
     width: 50%;
     margin: 10px;
@@ -87,7 +87,7 @@ h1{
     align-items:center;
 }
 
-.input{
+.input-box{
     width: 80%;
     display:flex;
     padding: 10px 0;
