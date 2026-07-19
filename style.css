@@ -176,8 +176,8 @@ button {
     margin-top:20px;
 }
 
-#account a{
-    color:white;
+#account {
+    color:blue;
     text-decoration:none;
 }
 button:hover{
