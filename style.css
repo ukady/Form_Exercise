@@ -96,6 +96,9 @@ h1{
     border-radius: 10px;
     font-size: 18px;
 }
+.input a{
+  position: absolute;
+}
 
 .left-icon{
    position: absolute;
