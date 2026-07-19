@@ -98,6 +98,7 @@ h1{
 }
 .input a{
   position: absolute;
+  left: 50px;
 }
 
 .left-icon{
