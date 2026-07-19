@@ -42,8 +42,7 @@ form input{
   margin-bottom: 15px ;
 }
 form a{
-  width: 100%;
-    max-width: 115px;
+  width: 10%;
     color: white;
     border: none;
     padding: 8px ;
