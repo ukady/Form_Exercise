@@ -99,6 +99,7 @@ h1{
 a {
   display: flex;
   padding-left: 9px;
+  color: black;
 }
 
 .left-icon{
