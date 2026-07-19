@@ -46,7 +46,7 @@ div{
   color: white;
   outline: none;
   margin-top: 10px;
-  font-size: 10px;
+  font-size: 15px;
 }
 form input::placeholder{
   color: green;
