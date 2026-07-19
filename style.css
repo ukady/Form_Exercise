@@ -44,15 +44,7 @@ form input{
 form a{
   width: 10%;
     color: white;
-    border: none;
-    padding: 8px ;
-    font-size: 16px;
-    font-weight: bold;
-    border-radius: 6px;
-    cursor: pointer;
-    margin-top: 8px;
-    display: flex;
-    margin: 8px;
+    
 }
 .dt{
   color: white;
