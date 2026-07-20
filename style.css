@@ -92,37 +92,37 @@ h1{
     align-items:center;
 }
 
-.input-box{
-    position: relative;
+.input{
     width: 80%;
-    margin-bottom: 15px;
-}
-
-.input-box input{
-    width: 100%;
-    padding: 12px 45px; /* space for the icons */
+    display:flex;
+    padding: 10px 0;
+    justify-items: 10px;
     border: none;
     border-radius: 10px;
-    font-size: 16px;
+    font-size: 18px;
 }
 
+
 .left-icon{
-    position: absolute;
-    left: 15px;
-    top: 50%;
-    transform: translateY(-50%);
-    font-size: 20px;
-    color: black;
+   position: absolute;
+   left: 50px;
+   top: 19%;
+   transform: translateY(-50%);
+   color: black;
+   font-size: 20px;
+   margin-left: -8px;
 }
 
 .right-icon{
     position: absolute;
-    right: 15px;
-    top: 50%;
+    right: 270px;
+    top: 31%;
     transform: translateY(-50%);
-    font-size: 20px;
     color: black;
+    font-size: 20px;
     cursor: pointer;
+    margin-right: 10px;
+    margin-right: 5px;
 }
 
 #account{
