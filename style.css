@@ -42,7 +42,8 @@ form input{
   margin-bottom: 15px ;
 }
 a{
-
+   align-items:center;
+   justify-content: center;
     color: white;
     
 }
