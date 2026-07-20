@@ -41,14 +41,14 @@ form input{
   border-radius: 10px;
   margin-bottom: 15px ;
 }
-a{
-   color: white;
-   text-align: left;
-   padding: 8px 0;
-   text-decoration: none;
-  
-    
-    
+aa{
+    color: white;
+    text-decoration: none;
+    width: 80%;
+    display: block;
+    text-align: left;
+    margin-top: -8px;
+    margin-bottom: 15px;
 }
 .dt{
   color: white;
