@@ -30,7 +30,7 @@ form{
   justify-content: center;
   gap: 10px;
   background: rgba(0,0,0,.35);
-backdrop-filter: blur(8px);
+backdrop-filter: blur(6px);
 }
 form input{
   padding: 8px 17px;
